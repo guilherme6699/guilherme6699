@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou o Guilherme!
 
 🎓 Estudante da Escola Tecnica Estadual (ETEC) 
-💻 Explorando o mundo da programação,Cyber Segurança  
-📚 Atualmente estudando  java,JavaScript,SQL  
+💻 Explorando o mundo da programação,Cyber Segurança 
 
 ---
 
