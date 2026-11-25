@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de Informática para Internet – ETEC de Francisco Morato</p>
+<p align="left">Cursando Informática para Internet – ETEC de Francisco Morato</p>
 
 ###
 
@@ -61,9 +61,9 @@
 
 ###
 
-- 🤖 **Bots para Discord**: [descreva em uma linha o que fazem](link-do-repo)
-- 🛒 **Sites de loja**: [PHP + MySQL, com painel e pagamentos](link-do-repo)
-- 🔧 **Ferramentas de análise**: [descreva o projeto](link-do-repo)
+- 🤖 **Bots para Discord**: bots hospedados 24h, com comandos personalizados e automações
+- 🛒 **[Smooth Bypass](https://smoothbypass.discloud.app/)**: loja online em PHP e MySQL, com painel de conta, administração e pagamentos
+- 🔧 **Ferramentas de análise**: estudos de engenharia reversa e modding de jogos
 
 ###
 
@@ -82,16 +82,10 @@
 ###
 
 <p align="left">
-📧 seu-email@exemplo.com<br>
-💬 Discord: seu_usuario
+📧 <a href="mailto:guilherme.souza6699@gmail.com">guilherme.souza6699@gmail.com</a>
 </p>
 
 ###
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=guilherme6699&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme6699&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&fontSize=70&theme=tokyonight" />
